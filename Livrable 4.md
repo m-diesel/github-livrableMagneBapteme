@@ -24,7 +24,8 @@
 
 ### 3.  TRADUCTION  EN MCD
 
-![[IPAD_MCD.jpeg]]
+![[IPAD_MCD.jpeg]] 
+
 
 
 ### 3. MODELE CONCEPTUEL DE DONNEES 
