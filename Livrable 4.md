@@ -24,10 +24,10 @@
 
 ### 3.  TRADUCTION  EN MCD
 
-![[IPAD_MCD.jpeg]] 
+![mcd_apprenant.png] 
 
 
 
-### 3. MODELE CONCEPTUEL DE DONNEES 
+### 3. MODELE LOGIQUE DE DONNEES 
 
-![[MLD_IPAD.jpeg]]
+
